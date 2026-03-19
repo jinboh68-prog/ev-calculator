@@ -23,6 +23,7 @@ capabilities:
 ---
 
 # 🎯 EV 期望值计算器
+## 顶级交易员私藏的赚钱公式 | Top Trader's Secret Money Formula
 
 **定价**: 0.01 USDC (x402支付)
 **作者**: Rich (@samhuang2025)

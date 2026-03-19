@@ -1,4 +1,5 @@
 # EV Calculator - 期望值计算器
+## 🎯 顶级交易员私藏的赚钱公式 | Top Trader's Secret Money Formula
 
 <div align="center">
 
